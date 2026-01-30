@@ -47,7 +47,7 @@ Installation
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/twasi.git
+git clone https://github.com/towasi-dot/twasi.git
 cd twasi
 ```
 
